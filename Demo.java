@@ -7,6 +7,7 @@ public class Demo {
         int i=1;
         int j=2;
         int c=i+j;
+        int d=3;
         return c;
     }
 
