@@ -8,6 +8,7 @@ public class Demo {
         int j=2;
         int c=i+j;
         int d=3;
+        System.out.println("222222");
         return c;
     }
 
